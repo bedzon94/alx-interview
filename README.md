@@ -17,4 +17,4 @@ This function takes an integer n as input and returns a list of lists of integer
 
 ## Author
 
-- Norris Selorm Bedzo [Github]: http://www.github.com/bedzon94
+- Norris Selorm Bedzo [Github](http://www.github.com/bedzon94)
